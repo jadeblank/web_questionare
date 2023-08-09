@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef367bea-4bde-4183-b0b2-01ce1dc52c48" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#1454#1643#0" />
+                <element signature="e#1716#1882#0" />
+                <element signature="e#2044#2189#0" />
+                <element signature="e#2277#2429#0" />
+                <element signature="e#2447#2905#0" />
+                <element signature="e#2923#3381#0" />
+                <element signature="e#4051#4160#0" />
+                <element signature="e#4214#5629#0" />
+                <element signature="e#5655#5722#0" />
+                <element signature="e#5742#5840#0" />
+                <element signature="e#5893#7280#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/UserStudy/Study1/describe.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>下面</find>
+      <find>data</find>
+      <find>describe_list</find>
+      <find>st</find>
+      <find>下面是切换图片的按钮</find>
+      <find>提交</find>
+      <find>本组你还没有做出公正的评判哦~</find>
+      <find>des</find>
+      <find>这是</find>
+      <find>A组</find>
+      <find>选择</find>
+      <find>rand_list</find>
+      <find>当前index</find>
+      <find>屎</find>
+      <find>print</find>
+      <find>key</find>
+      <find>切换问卷，初始化咯</find>
+      <find>Y</find>
+      <find>本组你已经做出了判断</find>
+      <find>rand</find>
+      <find>本组</find>
+      <find>divider</find>
+      <find>占位</find>
+      <find>r04c1</find>
+      <find>whi</find>
+      <find>描述</find>
+      <find>可以提交</find>
+      <find>Image</find>
+      <find>imageOri</find>
+      <find>st.session_state.imageOri</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/generate_excel.py" />
+        <option value="$PROJECT_DIR$/result/0420141639joints.txt" />
+        <option value="$PROJECT_DIR$/result/0420122442joints.txt" />
+        <option value="$PROJECT_DIR$/front.py" />
+        <option value="$PROJECT_DIR$/data/UserStudy/Study1/describe.txt" />
+        <option value="$PROJECT_DIR$/result/0420164520joints.txt" />
+        <option value="$PROJECT_DIR$/result/0420203831joints.txt" />
+        <option value="$PROJECT_DIR$/result/0420203935joints.txt" />
+        <option value="$PROJECT_DIR$/result/0420204448joints.txt" />
+        <option value="$PROJECT_DIR$/start.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="226" />
+    <option name="y" value="123" />
+    <option name="width" value="983" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="compare_streamlit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compare_streamlit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../face-alignment-master" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Gan\compare_streamlit\data" />
+      <recent name="F:\Gan\compare_streamlit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Gan\compare_streamlit" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef367bea-4bde-4183-b0b2-01ce1dc52c48" name="Default Changelist" comment="" />
+      <created>1681894708577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681894708577</updated>
+      <workItem from="1681894709734" duration="8461000" />
+      <workItem from="1681956518412" duration="17367000" />
+      <workItem from="1681981064611" duration="2186000" />
+      <workItem from="1681991235285" duration="626000" />
+      <workItem from="1681992264417" duration="5440000" />
+      <workItem from="1681998013959" duration="1735000" />
+      <workItem from="1682165138274" duration="4472000" />
+      <workItem from="1682231823087" duration="665000" />
+      <workItem from="1691546219014" duration="2093000" />
+      <workItem from="1691548435013" duration="681000" />
+      <workItem from="1691562781899" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43845000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49719888" visible="true" weight="0.2039867" />
+      <window_info id="Structure" order="1" sideWeight="0.5028011" side_tool="true" weight="0.17607974" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.71568626" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32913166" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/compare_streamlit$start.coverage" NAME="start Coverage Results" MODIFIED="1681894827333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/generate_excel.py" />
+    <entry file="file://$PROJECT_DIR$/0420122255joints.txt" />
+    <entry file="file://$PROJECT_DIR$/0420122125joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420141639joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420122442joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420143516joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420150620joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420153304joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420160717joints.txt" />
+    <entry file="file://$PROJECT_DIR$/front.py" />
+    <entry file="file://$PROJECT_DIR$/result/0420164520joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420173420joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420200910joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420201206joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420203831joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420203935joints.txt" />
+    <entry file="file://$PROJECT_DIR$/data/UserStudy/Study1/methodA/000003_0_1he or she looks old.png" />
+    <entry file="file://$PROJECT_DIR$/data/UserStudy/Study1/methodB/000003_0_inpaint.png" />
+    <entry file="file://$PROJECT_DIR$/data/UserStudy/Study1/methodA/000002_0_2he or she looks old.png" />
+    <entry file="file://$PROJECT_DIR$/data/UserStudy/Study1/methodA/000001_0_1he or she is wearing glasses.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UserStudy/Study1/methodA/000000_0_1he or she looks young.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/0420204448joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420203952joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0420212450joints.txt" />
+    <entry file="file://$PROJECT_DIR$/result/0422203326joints.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/占位.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/0420215303joints.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1454#1643#0" />
+            <element signature="e#1716#1882#0" />
+            <element signature="e#2044#2189#0" />
+            <element signature="e#2277#2429#0" />
+            <element signature="e#2447#2905#0" />
+            <element signature="e#2923#3381#0" />
+            <element signature="e#4051#4160#0" />
+            <element signature="e#4214#5629#0" />
+            <element signature="e#5655#5722#0" />
+            <element signature="e#5742#5840#0" />
+            <element signature="e#5893#7280#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UserStudy/Study1/describe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
